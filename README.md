@@ -1,2 +1,2 @@
 # BIGFile
-Bayesian Information Gain for Fast File Retrieval
+Bayesian Information Gain (BIG) approach core functions in hierarchical file retrieval
