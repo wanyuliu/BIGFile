@@ -1,5 +1,4 @@
 # BIGFile
-Bayesian Information Gain (BIG) approach core functions in hierarchical file retrieval
 
 BIGFile is a new fast file retrieval technique. It features a split adaptive interface where the static area presents the usual file hierarchy and the adaptive area presents the files and folders that are potentially interesting to users. These shortcuts are found by Bayesian Information Gain (BIG) framework. A video demonstration of BIGFile can be found here: https://www.youtube.com/watch?v=DIUjsPlRez4
 
